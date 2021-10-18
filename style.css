@@ -12,7 +12,9 @@ body {
     background-color: #198754!important;
     border-color: #198754!important;
 }
-
+.company_info {
+  font-size: 20px;
+}
 .underline-no {
   text-decoration: none;
 }
